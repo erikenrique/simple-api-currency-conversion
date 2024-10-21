@@ -1,4 +1,4 @@
-import {currencyApiKey} from './apiKey.js';
+import { currencyApiKey } from './apiKey.js';
 
 console.log(currencyApiKey)
 
